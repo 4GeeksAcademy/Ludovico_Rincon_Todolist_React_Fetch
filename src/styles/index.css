@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+li:hover span {
+    background-color:red;
+}
+
+#deleteAll {
+    width:150px;
+}
